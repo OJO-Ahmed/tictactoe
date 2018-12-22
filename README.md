@@ -1,4 +1,4 @@
-# Tic-tactoe
+# TIC-TAC-TOE
 python script for tictactoe game,  play with an opponent and have fun
 
 ## How to Play
