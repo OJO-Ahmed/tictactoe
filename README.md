@@ -2,7 +2,10 @@
 python script for tictactoe game,  play with an opponent and have fun
 
 ## How to Play
-each players make there moves by indicating where you want to move to, by typing any of the command
+run the python script on your terminal
+`python tictactoe.py`
+
+each players make their moves by indicating where you want to move to, by typing any of the command
 top-L, top-M, top-R,
 mid-L, mid-M, mid-R,
 low-L, low-M, low-R
